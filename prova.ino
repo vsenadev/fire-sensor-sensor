@@ -4,7 +4,7 @@
 
 const char *ssid = "Vinicius.2G";
 const char *password = "Baldarache";
-const char *postUrl = "https://fire-sensor-ecru.vercel.app/rota-get";
+const char *postUrl = "https://fire-sensor-api.onrender.com/post";
 
 void setup() {
   Serial.begin(115200);
