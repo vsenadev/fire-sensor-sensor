@@ -1,4 +1,4 @@
-# Fire Sensor Sensor
+# Fire Sensor
 
 ## Descrição
 O Fire Sensor Sensor é uma aplicação desenvolvida em C++ para validar a saída de um sensor de fogo a cada segundo. A aplicação verifica se há presença de fogo e, em caso positivo, retorna essa informação para uma página web indicando um possível incêndio. Além disso, o sistema conta com um sensor adicional de temperatura e umidade que reporta constantemente os dados ao ThinkSpeak, oferecendo uma monitoração completa do ambiente.
